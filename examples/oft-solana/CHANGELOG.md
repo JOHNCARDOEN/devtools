@@ -1,5 +1,12 @@
 # @layerzerolabs/oft-solana-example
 
+## 0.12.9
+
+### Patch Changes
+
+- d720011: oft-solana: require user to confirm max total token supply given a local decimals value
+- d720011: print max supply given solana local decimals
+
 ## 0.12.8
 
 ### Patch Changes
